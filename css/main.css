@@ -11,6 +11,7 @@ html{
 .navb-ar{
     position: fixed;
     width:0;
+    z-index: 2 !important;
     background-color: #414658;
     left: -18%;
     top: 0;
