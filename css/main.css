@@ -78,6 +78,9 @@ margin-bottom: 330px;} }
 @media (min-width: 768px) and (max-width:992px) {
     .home{height: 650px;}
     .home-info{height: 650px;}
+     #con-tact{
+        margin-bottom: 350px;
+    }
     
 }
 /* ------------------------------------------------------------------ */
