@@ -77,7 +77,7 @@ margin-bottom: 330px;} }
 @media (min-width: 768px) and (max-width:992px) {
     .home{height: 650px;}
     .home-info{height: 650px;}
-     .navb-ar a{color: blue !important;}
+    
 }
 /* ------------------------------------------------------------------ */
 .effect-jq{
@@ -127,6 +127,9 @@ margin-bottom: 330px;} }
    margin: 100px 0;
 }
 /* ------------------------------------------------------------------------ */
+#Duration{
+   margin-bottom: 100px;
+}
 .contact{
     height: 700px;
     padding: 100px 0;
